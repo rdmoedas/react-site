@@ -1,0 +1,14 @@
+nav {
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    background-color: gray;
+
+}
+
+nav li {
+    margin: 15px;
+}
