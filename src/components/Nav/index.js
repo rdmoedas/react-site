@@ -1,4 +1,3 @@
-import React from 'react';
 import './Nav.css';
 
 function Nav() {
@@ -6,8 +5,8 @@ function Nav() {
         <nav>
             <ul>
                 <li><a href='/'>Home</a></li>
-                <li><a href='/sobre'>Sobre</a></li>
-                <li><a href='/portifolio'>Portifolio</a></li>
+                <li><a href='#about'>Sobre</a></li>
+                <li><a href='#portifolio'>Portifolio</a></li>
             </ul>
         </nav>
     )

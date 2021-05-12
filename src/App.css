@@ -50,3 +50,15 @@
 .demo {
   display: grid;
 }
+
+.flex {
+  display: flex;
+}
+
+.section-title {
+  background-color: #c4c4c4;
+}
+
+.card-basic-color {
+  background-color: #c4c4c4;
+}

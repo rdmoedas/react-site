@@ -1,3 +1,15 @@
+# About
+Hello, this is a simple SPA build with Create React App.
+
+The objective is build a simple portifolio page.
+
+I draw the layout after a UI/UX class. And start bulding to learn about React and CRA.
+
+Thank you for reading.
+
+
+# CRA default README
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
